@@ -1,0 +1,3 @@
+[submodule "2048"]
+	path = 2048
+	url = https://github.com/thesmith/2048.git
